@@ -1,0 +1,14 @@
+@import "base/variables.scss";
+@import "base/grid.scss";
+@import "base/buttons.scss";
+
+body {
+  background: $bg;
+  color: $red;  
+}
+
+a {
+  transition: all 350ms ease;
+  display: flex;
+  color: #fff;  
+}
